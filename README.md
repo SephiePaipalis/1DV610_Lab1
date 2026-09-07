@@ -4,13 +4,7 @@ Ett enkelt Node.js-program som frågar efter användarens namn och visar ett nö
 
 ## Klona repot:
 
-git clone <din-repo-url>
-
-
-## Gå till projektmappen:
-
-cd <projektmapp>
-
+git clone <https://github.com/SephiePaipalis/1DV610_Lab1>
 
 ## Kör programmet:
 
