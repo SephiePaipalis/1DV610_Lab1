@@ -22,6 +22,8 @@ Svar: Det tog en liten stund att komma in i igen men nu känner jag mig ganska v
 
 Svar: Jag valde Github egentligen mest för att lärarna sagt att det är därifrån vi kommer jobba framöver, och att det är lika bra att komma igång med det direkt. Har vetskap sedan innan att Github är en fantastisk plattform för open source utvecklare, och att påbörja ett portfolio där känns som en bra idé.
 
+Mitt repo på Github: https://github.com/SephiePaipalis/1DV610_Lab1
+
 ## 3. Bedömning och att dela publikt
 
 *Uppgiften bedöms inte på kodens stil eller kvalitet, bara på en komplett inlämning. Påverkade det hur du arbetade? Och hur kändes det att posta din skärmdump/video publikt i Zulip, utan möjlighet att göra det privat?*
@@ -51,5 +53,5 @@ Svar: Jag tog hjälp av ChatGPT, som jag använder som ett slags bollplank, frå
 
 *Bifoga (eller länka till) samma skärmdump/video som du postat i Zulip.*
 
-Svar:
+Svar: https://github.com/SephiePaipalis/1DV610_Lab1/blob/main/exempel.png
 
