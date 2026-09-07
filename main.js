@@ -6,8 +6,8 @@ const rl = readline.createInterface({
   output: process.stdout
 })
 
-rl.question('Vad heter du? ', (namn) => {
-    const response = `You've met with a terrible fate, haven't you, ${namn}?`
+rl.question('What is your name, traveler? ', (name) => {
+    const response = `You've met with a terrible fate, haven't you, ${name}?`
     console.log(`
        
 ⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀       
