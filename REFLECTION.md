@@ -52,3 +52,4 @@ Svar: Jag tog hjälp av ChatGPT, som jag använder som ett slags bollplank, frå
 *Bifoga (eller länka till) samma skärmdump/video som du postat i Zulip.*
 
 Svar:
+
